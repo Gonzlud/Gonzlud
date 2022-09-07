@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Gonzlud
-- 👀 I’m interested in data analytics 
-- 🌱 I’m currently learning python
+- 👀 I’m interested in data analytics
 - 🌌 "Fantasia has no limits"
 
